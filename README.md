@@ -1,2 +1,1 @@
-Script that prints the absolute path name of the current working directory
-Task 0 Where an I ?
+switches the current user to the user betty
